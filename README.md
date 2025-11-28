@@ -20,7 +20,8 @@ What I'm Up To
 
 ### Customer Churn Analysis (SQL + Tableau)
 Built an end-to-end churn analytics workflow using SQL and Tableau; analyzed customer behavior, built predictive logic, and designed dashboards to highlight retention drivers.  
-**Repo:** *coming soon* | **[Project Repo] (https://github.com/Dipita-Biswas/Customer-Churn-Analysis)** 
+**Repo:** *coming soon* |**[Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)**
+
 
 ### 📈 Retail Sales Trend & Forecasting – Walmart Dataset
 Performed exploratory analysis and forecasting on multi-store retail data using Python. Built dashboards to visualize trends, seasonality, and holiday effects.  
