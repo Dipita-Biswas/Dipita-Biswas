@@ -18,16 +18,11 @@ What I'm Up To
 
 ## Featured Projects
 
-### Customer Churn Analysis (SQL + Tableau)
-Built an end-to-end churn analytics workflow using SQL and Tableau; analyzed customer behavior, built predictive logic, and designed dashboards to highlight retention drivers.  
+**Customer Churn Analysis (SQL + Tableau)** 
+Built a predictive analytics workflow using machine learning to identify high-risk customers, uncover key churn drivers, and segment customers (K-Means) based on behavioral and financial attributes and developed actionable insights to inform sales and retention strategy.  
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
-
-### 📈 Retail Sales Trend & Forecasting – Walmart Dataset
-Performed exploratory analysis and forecasting on multi-store retail data using Python. Built dashboards to visualize trends, seasonality, and holiday effects.  
-**Repo:** *coming soon*
-
-### 💬 Craigslist Gig NLP Analysis  
+**Craigslist Gig NLP Analysis** 
 Applied text preprocessing, TF-IDF, clustering, and classification to analyze job/gig postings across NYC. Identified topic clusters and built a classifier to categorize gig types.  
 **Repo:** *coming soon*
 
