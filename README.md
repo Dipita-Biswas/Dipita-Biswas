@@ -6,7 +6,7 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 
 ---
 
-## What I'm Up To
+What I'm Up To
 
 - **Building analytics-driven portfolio projects** in sales analytics, customer churn prediction, pricing optimization, and retail forecasting.
 - **Exploring applied AI**, including NLP for text classification, clustering, and generative AI workflows for business use cases.
@@ -18,9 +18,9 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 
 ## Featured Projects
 
-### 🛒 Customer Churn Analysis (SQL + Tableau)
+### Customer Churn Analysis (SQL + Tableau)
 Built an end-to-end churn analytics workflow using SQL and Tableau; analyzed customer behavior, built predictive logic, and designed dashboards to highlight retention drivers.  
-**Repo:** *coming soon* | **Dashboard:** *coming soon*
+**Repo:** *coming soon* | **[Project Repo] (https://github.com/Dipita-Biswas/Customer-Churn-Analysis)** 
 
 ### 📈 Retail Sales Trend & Forecasting – Walmart Dataset
 Performed exploratory analysis and forecasting on multi-store retail data using Python. Built dashboards to visualize trends, seasonality, and holiday effects.  
