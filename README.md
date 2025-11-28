@@ -18,7 +18,8 @@ What I'm Up To
 
 ## Featured Projects
 
-- **Customer Churn Analysis (SQL + Tableau)** 
+- **Customer Churn Analysis (SQL + Tableau)**
+
 Built a predictive analytics workflow using machine learning to identify high-risk customers, uncover key churn drivers, and segment customers (K-Means) based on behavioral and financial attributes and developed actionable insights to inform sales and retention strategy.  
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
