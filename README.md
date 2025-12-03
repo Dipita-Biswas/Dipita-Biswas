@@ -22,20 +22,6 @@ What I'm Up To
 Built a predictive analytics workflow using machine learning to identify high-risk customers, uncover key churn drivers, and segment customers (K-Means) based on behavioral and financial attributes and developed actionable insights to inform sales and retention strategy.  
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
-**Craigslist Gig NLP Analysis** 
-Applied text preprocessing, TF-IDF, clustering, and classification to analyze job/gig postings across NYC. Identified topic clusters and built a classifier to categorize gig types.  
-**Repo:** *coming soon*
-
-### 🧱 Construction Workforce Analytics (USC Builds Project)
-Conducted PCA, clustering, demand forecasting, and KPI analysis to support workforce development and training planning.  
-**Repo:** *coming soon* | **Slide Deck:** *coming soon*
-
-### 📊 LinkedIn Job Market Insights
-Scraped job postings, performed skill frequency analysis, and created dashboards that highlight emerging analytics & strategy roles.  
-**Repo:** *coming soon*
-
----
-
 ## Technical Skills
 
 **Programming & Databases**  
