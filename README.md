@@ -1,6 +1,6 @@
 # Dipita Biswas
 
-Business Analytics & Applied AI | Sales Strategy & Analytics | MS in Business Analytics @ Simon Business School
+Business Analytics & Applied AI | Sales Strategy & Analytics | MS in Business Analytics @ Simon Business School   
 Experienced in sales analytics, predictive modeling, KPI frameworks, financial analysis, and AI-driven business insights
 
 ---
