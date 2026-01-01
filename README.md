@@ -1,12 +1,11 @@
 # Dipita Biswas
 
-Business Analytics & Applied AI | Sales Strategy & Analytics | Financial Modeling  
-MS in Business Analytics @ Simon Business School, University of Rochester 
+Business Analytics & Applied AI | Sales Strategy & Analytics | MS in Business Analytics @ Simon Business School
 Experienced in sales analytics, predictive modeling, KPI frameworks, financial analysis, and AI-driven business insights.
 
 ---
 
-What I'm Up To
+# What I'm Up To
 
 - **Building analytics-driven portfolio projects** in sales analytics, customer churn prediction, pricing optimization, and retail forecasting.
 - **Exploring applied AI**, including NLP for text classification, clustering, and generative AI workflows for business use cases.
