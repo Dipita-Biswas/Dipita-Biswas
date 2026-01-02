@@ -18,7 +18,7 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 ## Featured Projects
 
 - **Customer Churn Analysis (SQL + Tableau)**  
-Built a predictive analytics workflow to identify churn drivers, segment customers using K-Means, and deliver actionable insights to support sales and retention strategy.   
+Built a predictive analytics workflow to identify churn drivers, segment customers using K-Means, and deliver actionable insights to support sales and retention strategy.     
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
 - **Craigslist Gig NLP Analysis (NLP + Machine Learning)**   
@@ -26,11 +26,11 @@ Applied NLP, clustering, and classification to structure unstructured gig listin
 [Project Repo](https://github.com/Dipita-Biswas/Craigslist-Gig-NLP-Analysis)
 
 - **AI Personalized Assistant (Generative AI + Applied AI)**  
-Designed an AI assistant using large language models to interpret user intent, deliver personalized responses, and automate task workflows for practical business use cases.
+Designed an AI assistant using large language models to interpret user intent, deliver personalized responses, and automate task workflows for practical business use cases.  
 [Project Repo](https://github.com/Dipita-Biswas/AI-Personalized-Assistant)
 
 - **Film Rental Performance Analysis (SQL + Tableau)**   
-Built a SQL-based data warehouse and Tableau dashboards to analyze rental behavior, revenue performance, and geographic trends for data-driven content and pricing decisions.
+Built a SQL-based data warehouse and Tableau dashboards to analyze rental behavior, revenue performance, and geographic trends for data-driven content and pricing decisions.  
 [Project Repo](https://github.com/Dipita-Biswas/Film-Rental-Analysis)
 
 
