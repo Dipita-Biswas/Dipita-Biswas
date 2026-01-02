@@ -21,6 +21,11 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 Built a predictive analytics workflow using machine learning to identify high-risk customers, uncover key churn drivers, and segment customers (K-Means) based on behavioral and financial attributes and developed actionable insights to inform sales and retention strategy.  
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
+- **Film Rental Performance Analysis (SQL + Tableau)**   
+Built an end-to-end business intelligence workflow by designing a SQL-based data warehouse from a relational film rental database, developing advanced SQL queries to analyze revenue, rental behavior, and geographic trends, and creating Tableau dashboards to deliver actionable insights for content strategy, pricing, inventory optimization, and market expansion.  
+[Project Repo](https://github.com/Dipita-Biswas/Film-Rental-Analysis)
+
+
 ## Technical Skills
 
 **Programming & Databases**  
