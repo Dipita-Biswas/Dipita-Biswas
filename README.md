@@ -18,19 +18,19 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 ## Featured Projects
 
 - **Customer Churn Analysis (SQL + Tableau)**  
-Built a predictive analytics workflow using machine learning to identify high-risk customers, uncover key churn drivers, and segment customers (K-Means) based on behavioral and financial attributes and developed actionable insights to inform sales and retention strategy.  
+Built a predictive analytics workflow to identify churn drivers, segment customers using K-Means, and deliver actionable insights to support sales and retention strategy.   
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
 - **Craigslist Gig NLP Analysis (NLP + Machine Learning)**   
-Applied natural language processing, clustering, and classification to structure unstructured Craigslist gig listings. Developed thematic clustering (K-Means) and sentiment classification models to improve search relevance, automate tone detection, and enhance moderation while translating unstructured text into actionable business insights.  
+Applied NLP, clustering, and classification to structure unstructured gig listings and generate insights to improve search relevance and content moderation.
 [Project Repo](https://github.com/Dipita-Biswas/Craigslist-Gig-NLP-Analysis)
 
 - **AI Personalized Assistant (Generative AI + Applied AI)**  
-Designed and built an interactive AI assistant that interprets user intent, delivers personalized responses, and automates task workflows using large language models and prompt-driven logic. Focused on user-centric design, responsible AI considerations, and practical business applications of conversational AI.  
+Designed an AI assistant using large language models to interpret user intent, deliver personalized responses, and automate task workflows for practical business use cases.
 [Project Repo](https://github.com/Dipita-Biswas/AI-Personalized-Assistant)
 
 - **Film Rental Performance Analysis (SQL + Tableau)**   
-Built an end-to-end business intelligence workflow by designing a SQL-based data warehouse from a relational film rental database, developing advanced SQL queries to analyze revenue, rental behavior, and geographic trends, and creating Tableau dashboards to deliver actionable insights for content strategy, pricing, inventory optimization, and market expansion.  
+Built a SQL-based data warehouse and Tableau dashboards to analyze rental behavior, revenue performance, and geographic trends for data-driven content and pricing decisions.
 [Project Repo](https://github.com/Dipita-Biswas/Film-Rental-Analysis)
 
 
