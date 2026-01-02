@@ -29,27 +29,39 @@ Applied NLP, clustering, and classification to structure unstructured gig listin
 Designed an AI assistant using large language models to interpret user intent, deliver personalized responses, and automate task workflows for practical business use cases.  
 [Project Repo](https://github.com/Dipita-Biswas/AI-Personalized-Assistant)
 
+- **Real Estate Investment Analysis (Python + Excel)**  
+Performed financial and KPI analysis using Python and Excel to evaluate U.S. housing markets, model rent growth and vacancy trends, and generate data-driven investment recommendations for real estate portfolio decisions.  
+[Project Repo](https://github.com/Dipita-Biswas/Real-Estate-Investment-Analysis)
+
 - **Film Rental Performance Analysis (SQL + Tableau)**   
 Built a SQL-based data warehouse and Tableau dashboards to analyze rental behavior, revenue performance, and geographic trends for data-driven content and pricing decisions.  
 [Project Repo](https://github.com/Dipita-Biswas/Film-Rental-Analysis)
 
+- **Workforce Development Insights (Python + SQL + PowerPoint)**   
+Conducted EDA, PCA, clustering, and A/B testing on employee performance and training data using Python and SQL to identify skill gaps, quantify program effectiveness, and support data-driven workforce planning.  
+[Project Repo](https://github.com/Dipita-Biswas/Workforce-Development)
+
+
+- **LinkedIn Job Market Analysis (Python + Tableau)**  
+Performed data extraction and analysis using Python and SQL to analyze LinkedIn job postings, uncover hiring trends, skill demand, and market insights to guide job seekers and inform strategic career planning.  
+[Project Repo](https://github.com/Dipita-Biswas/LinkedIn-Job-Market-Analysis)
+
+- **Product Strategy Case Study – Otter.ai (Product Management)**  
+Designed a product strategy case study for an AI-powered meeting intelligence feature, focusing on user problems, feature prioritization, AI trust considerations, and go-to-market strategy.  
+[Project Repo](https://github.com/Dipita-Biswas/product-strategy-case-study-otter-ai)
+
+
 
 ## Technical Skills
 
-**Programming & Databases**  
-SQL, Python (pandas, NumPy, scikit-learn), R (basic)
-
-**Analytics & Visualization**  
-Tableau, Power BI, Advanced Excel
+**Programming & Visualizations**  
+SQL, Python (pandas, NumPy, scikit-learn), R (intermediate), Tableau, Power BI, Advanced Excel
 
 **Machine Learning & AI**  
 Logistic Regression, Time-Series Forecasting, Clustering (K-Means), PCA, NLP (TF-IDF, Lemmatization)
 
 **Business & Product Skills**  
 Sales Strategy, Financial Modeling, Pricing, KPI Framework Design, Requirements Gathering, A/B Testing, Data Storytelling
-
-**Cloud & Tools**  
-AWS (S3, Redshift), JIRA, Trello, Git
 
 ---
 
@@ -64,5 +76,5 @@ I enjoy building tools, dashboards, and models that help teams make smarter deci
 
 ## Contact
 
-**Email:** dipita.biswas@simon.rochester.edu  
-**LinkedIn:** https://www.linkedin.com/in/dipitabiswas  
+**Email:** biswas.dipitadia@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/dipitadiabiswas
