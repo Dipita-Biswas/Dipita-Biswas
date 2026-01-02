@@ -21,6 +21,11 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 Built a predictive analytics workflow using machine learning to identify high-risk customers, uncover key churn drivers, and segment customers (K-Means) based on behavioral and financial attributes and developed actionable insights to inform sales and retention strategy.  
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
+- **Craigslist Gig NLP Analysis (NLP + Machine Learning)**   
+Applied natural language processing, clustering, and classification to structure unstructured Craigslist gig listings. Developed thematic clustering (K-Means) and sentiment classification models to improve search relevance, automate tone detection, and enhance moderation while translating unstructured text into actionable business insights.  
+[Project Repo](https://github.com/Dipita-Biswas/Craigslist-Gig-NLP-Analysis)
+
+
 - **Film Rental Performance Analysis (SQL + Tableau)**   
 Built an end-to-end business intelligence workflow by designing a SQL-based data warehouse from a relational film rental database, developing advanced SQL queries to analyze revenue, rental behavior, and geographic trends, and creating Tableau dashboards to deliver actionable insights for content strategy, pricing, inventory optimization, and market expansion.  
 [Project Repo](https://github.com/Dipita-Biswas/Film-Rental-Analysis)
