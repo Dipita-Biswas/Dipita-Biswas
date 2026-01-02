@@ -5,13 +5,13 @@ Experienced in sales analytics, predictive modeling, KPI frameworks, financial a
 
 ---
 
-## What I'm Up To
+- ## What I’m Working On
 
-- **Building analytics-driven portfolio projects** in sales analytics, customer churn prediction, pricing optimization, and retail forecasting.
-- **Exploring applied AI**, including NLP for text classification, clustering, and generative AI workflows for business use cases.
-- **Learning advanced SQL, forecasting, and product analytics** to strengthen decision-support and operational efficiency.
-- **Open to collaborating** on Strategy, Product Analytics, Sales Ops, and AI-enabled business solutions.
-- **Ask me about** sales strategy, KPI design, churn analytics, financial modeling, applied AI, and data storytelling.
+- **Building analytics-driven projects** across sales performance, customer churn, pricing optimization, retail forecasting, and workforce insights to support data-driven decision-making.
+- **Applying AI to business analytics**, including NLP for text classification and clustering, and generative AI workflows to automate analysis, summarize insights, and improve decision support.
+- **Deepening core analytics skills** in SQL, forecasting, KPI design, and product analytics with a focus on operational efficiency and revenue impact.
+- **Open to collaborating** on Business Analytics, Sales Analytics, Revenue Operations, Product Analytics, and AI-enabled decision-support solutions.
+- **Happy to discuss** sales strategy, KPI frameworks, churn and retention analysis, financial modeling, applied AI in analytics, and data storytelling for stakeholders.
 
 ---
 
@@ -76,5 +76,5 @@ I enjoy building tools, dashboards, and models that help teams make smarter deci
 
 ## Contact
 
-**Email:** biswas.dipitadia@gmail.com 
+**Email:** biswas.dipitadia@gmail.com   
 **LinkedIn:** https://www.linkedin.com/in/dipitadiabiswas
