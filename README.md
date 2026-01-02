@@ -25,6 +25,9 @@ Built a predictive analytics workflow using machine learning to identify high-ri
 Applied natural language processing, clustering, and classification to structure unstructured Craigslist gig listings. Developed thematic clustering (K-Means) and sentiment classification models to improve search relevance, automate tone detection, and enhance moderation while translating unstructured text into actionable business insights.  
 [Project Repo](https://github.com/Dipita-Biswas/Craigslist-Gig-NLP-Analysis)
 
+- **AI Personalized Assistant (Generative AI + Applied AI)**  
+Designed and built an interactive AI assistant that interprets user intent, delivers personalized responses, and automates task workflows using large language models and prompt-driven logic. Focused on user-centric design, responsible AI considerations, and practical business applications of conversational AI.  
+[Project Repo](https://github.com/Dipita-Biswas/AI-Personalized-Assistant)
 
 - **Film Rental Performance Analysis (SQL + Tableau)**   
 Built an end-to-end business intelligence workflow by designing a SQL-based data warehouse from a relational film rental database, developing advanced SQL queries to analyze revenue, rental behavior, and geographic trends, and creating Tableau dashboards to deliver actionable insights for content strategy, pricing, inventory optimization, and market expansion.  
