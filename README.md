@@ -22,7 +22,7 @@ Built a predictive analytics workflow to identify churn drivers, segment custome
 [Project Repo](https://github.com/Dipita-Biswas/Customer-Churn-Analysis)
 
 - **Craigslist Gig NLP Analysis (NLP + Machine Learning)**   
-Applied NLP, clustering, and classification to structure unstructured gig listings and generate insights to improve search relevance and content moderation.
+Applied NLP, clustering, and classification to structure unstructured gig listings and generate insights to improve search relevance and content moderation.   
 [Project Repo](https://github.com/Dipita-Biswas/Craigslist-Gig-NLP-Analysis)
 
 - **AI Personalized Assistant (Generative AI + Applied AI)**  
